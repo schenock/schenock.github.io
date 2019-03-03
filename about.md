@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### More Information
+### _The world is compositional, or God exists._
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Books
 
