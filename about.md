@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### _The world is compositional, or God exists._
+_The world is compositional, or God exists._
 
 
 
