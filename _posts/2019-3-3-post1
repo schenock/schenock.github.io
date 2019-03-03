@@ -1,0 +1,11 @@
+---
+layout: post
+title: First blog post!
+---
+
+good music
+i dance.
+no good music
+i not dance.
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
