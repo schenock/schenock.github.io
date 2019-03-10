@@ -5,6 +5,8 @@ Very often when I am reading something I take disorganized, messy and fuzzy note
 
 This is a very interesting reading. Something that you won't find in your ordinary machine/deep learning course. No wonder why there are so many "deep learning practitioners", students and people who actually find it interesting but get somehow stuck in understanding deeply the underlying "machine" which is mostly theoretical and it comes from fields such as mathematical optimization, information theory etc. In my humble opinion, students should be encouraged to try to understand the underlying principles. This reading just reminded me of the importance of such a way of thinking.
 
+Let's dive into the reading. Apparently the discussion is whether an alpha- scaling update of the learning rate is the proper thing to do, and what is Natural Gradient doing instead, as opposed to ordinary stochastic gradient descent.
+
 
 > *"It’s providing a way to directly control movement of your model in predicted distribution space, as separate from movement of your model in loss space."*
 
