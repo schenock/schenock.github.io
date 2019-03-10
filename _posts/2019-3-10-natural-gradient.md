@@ -1,4 +1,8 @@
 
+Very often when I am reading something I take disorganized, messy and fuzzy notes which sometimes I re-read and re-think. I decided to start putting them in my blog, as I add my favourite readings. Let me start with this one:  [It’s Only Natural: An Excessively Deep Dive Into Natural Gradient Optimization
+](https://towardsdatascience.com/its-only-natural-an-excessively-deep-dive-into-natural-gradient-optimization-75d464b89dbb)
+
+
 This is a very interesting reading. Something that you won't find in your ordinary machine/deep learning course. No wonder why there are so many "deep learning practitioners", students and people who actually find it interesting but get somehow stuck in understanding deeply the underlying "machine" which is mostly theoretical and it comes from fields such as mathematical optimization, information theory etc. In my humble opinion, students should be encouraged to try to understand the underlying principles. This reading just reminded me of the importance of such a way of thinking.
 
 
