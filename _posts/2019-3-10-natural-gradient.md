@@ -45,4 +45,4 @@ Most importantly, this reading made me realize one very intereting thing, that w
 Especially the latter can be very true and therefore we need to revisit our approach for updating the gradient vector by simply multiplying by a scalar.
 
 However, in any case, in the end it all boils down to a fair approximation of the second derivatives of the underlying loss function. And we might not need to go deeper as no notable speed up in the process
-we are going to get (when talking about speed of convergence, after RMSProp, Adam etc.). I guess the more important topic within optimization is avoiding "falling" into local extrema.
+we are going to get (when talking about speed of convergence, after RMSProp, Adam etc.). I guess slightly more important topic within optimization at this moment is avoiding "falling" into local extrema.
