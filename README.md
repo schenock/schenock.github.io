@@ -1,3 +1,3 @@
 > March, 2016: 
 
-# Mini Personal Blog.
+# Readme not updated (Don't readme).
