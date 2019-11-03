@@ -10,10 +10,10 @@ _"The world is compositional, or God exists."_
 
 ### Papers: Personal Library
 
-Variational Autoencoders Pursue PCA Directions (by Accident)
+Variational Autoencoders Pursue PCA Directions (by Accident) <br />
 https://arxiv.org/abs/1812.06775
 
-Weakly Supervised Disentaglement with Guarantees
+Weakly Supervised Disentaglement with Guarantees <br />
 https://arxiv.org/pdf/1910.09772.pdf
 
 Implicit Autoencoders
