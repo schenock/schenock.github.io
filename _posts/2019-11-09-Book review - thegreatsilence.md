@@ -2,7 +2,7 @@
 A few words about an interesting book that I wanted to share here. Note to self: "find more books like this one."
 So, yes the book is "The Great Silence" by Milan Cirkovic. A book about SETI and the legendary 1950 lunchtime question.
 
-The narrative of the book revolves around the Enrico Fermi’s famous lunchtime statement “Where is everybody?”, refering to the nonappearence of extraterrestrial life. 
+The narrative of the book revolves around the Enrico Fermi’s famous lunchtime statement “Where is everybody?”, refering to the nonappearence of extraterrestrial life (and the odds against it, of course). 
 
 I have to say here first, tht I haven’t had much exposure to SETI literature, nor science fiction novels, both in serious and “green-little-man” toy story way, and I took this book quite seriously from the moment the author mentions his motivation to write such a book, somewhere in the first page. 
 
