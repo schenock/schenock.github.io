@@ -9,4 +9,5 @@ I have to say here first, tht I haven’t had much exposure to SETI literature, 
 It is an excellent book, very well compiled by an author who is astronomer, astrophysicist and astrobiologist. In the book he tries to review serious SETI literature with a focus on (yes, of course) Fermi’s statement and consequently the arising paradox in the years to come.
 
 The paradox is framed more as a hard problem in science and most of the (serious) proposed solutions to it have been stated in one way or another. The paradox of not having detected any extraterrestrial life is explained in a somewhat rollercoaster ride going from science-fiction to physics, technology, astro-biology all the way to philosophy. The author tries to impose the seriousness of the Fermi’s paradox by reviewing past proposed solutions and literature in a thorough and detailed academic style - a level up, I would say, for a “popular science” book. One of the reasons why I actually decided to write about it even in here.
+
 All in all, I would say the it is a nice journey around SETI theories supported with scientific facts originating from recent theories and discoveries regarding the universe.  
