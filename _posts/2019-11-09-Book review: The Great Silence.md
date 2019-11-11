@@ -4,7 +4,7 @@ So, yes the book is "The Great Silence" by Milan Cirkovic. A book about SETI and
 
 The narrative of the book revolves around the Enrico Fermi’s famous lunchtime statement “Where is everybody?”, refering to the nonappearence of extraterrestrial life (and the odds against it, of course). 
 
-I have to say here first, tht I haven’t had much exposure to SETI literature, nor science fiction novels, both in serious and “green-little-man” toy story way, and I took this book quite seriously from the moment the author mentions his motivation to write such a book, somewhere in the first page. 
+I have to say here first, that I haven’t had much exposure to SETI literature, nor science fiction novels, both in serious and “green-little-man” toy story way, and I took this book quite seriously from the moment the author mentions his motivation to write such a book, somewhere in the first page. 
 
 It is an excellent book, very well compiled by an author who is astronomer, astrophysicist and astrobiologist. In the book he tries to review serious SETI literature with a focus on (yes, of course) Fermi’s statement and consequently the arising paradox in the years to come.
 
