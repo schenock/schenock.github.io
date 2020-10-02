@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+minify_html: false
 exclude: [node_modules]
 
 # Name of your site (displayed in the header)
