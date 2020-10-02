@@ -41,7 +41,7 @@ parent capsule.
 
 Training
 
-Testing
+Testing:
 
 
 
