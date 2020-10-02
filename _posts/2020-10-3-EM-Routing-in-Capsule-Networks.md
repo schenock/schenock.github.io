@@ -25,7 +25,7 @@ From this point, EM:
 - considering that the family of lower bounds is defined by two things: (1) the model parameters and (2) the variational parameter q (a function), it tries to
 maximize the lower bound in a block coordinate fashion:
 
-During E-step: it fixes parameters, optimizes for q
+During E-step: it fixes parameters, optimizes for q.
 During M-step: it fixes q, optimizes for model parameters
 
 
