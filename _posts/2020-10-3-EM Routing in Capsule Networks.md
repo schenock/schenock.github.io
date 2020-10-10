@@ -39,12 +39,3 @@ The E-step determines the assignment probability of each datapoint(a lower-layer
 This iteration is repeated 3 times. The last activation value will be the parent capsule’s output. The 16 μ (means) from the last Gaussian model will be reshaped to form the 4×4 pose matrix of the 
 parent capsule.
 
-Training
-
-Testing:
-
-
-
-
-
-
